@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Task1
 {
-    public class PasswordCheckerService 
+    public class PasswordCheckerService : IPasswordChecker
     {
         public IPasswordRepository repository = new SqlRepository();
 
