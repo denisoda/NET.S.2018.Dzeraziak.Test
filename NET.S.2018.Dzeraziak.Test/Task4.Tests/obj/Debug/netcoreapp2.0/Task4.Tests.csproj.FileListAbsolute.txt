@@ -1,0 +1,15 @@
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/obj/Debug/netcoreapp2.0/Task4.Tests.csproj.CoreCompileInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/obj/Debug/netcoreapp2.0/Task4.Tests.AssemblyInfoInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/obj/Debug/netcoreapp2.0/Task4.Tests.AssemblyInfo.cs
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Tests.deps.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Tests.runtimeconfig.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Tests.runtimeconfig.dev.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Tests.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Tests.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Solution.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/bin/Debug/netcoreapp2.0/Task4.Solution.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/obj/Debug/netcoreapp2.0/Task4.Tests.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task4.Tests/obj/Debug/netcoreapp2.0/Task4.Tests.pdb

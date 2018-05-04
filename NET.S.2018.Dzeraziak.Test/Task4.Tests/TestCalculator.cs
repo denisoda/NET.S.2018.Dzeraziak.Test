@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using NUnit.Framework;
-using Task4;
+using Task4.InterfaceMethod;
 
 namespace Task4.Tests
 {
@@ -13,11 +13,12 @@ namespace Task4.Tests
         [Test]
         public void Test_AverageByMean()
         {
-            Calculator calculator = new Calculator();
+            var calculator = new Calculator();
+            IAverageCalculator meanMethod = new Mean();
 
             double expected = 8.3636363;
 
-            double actual = calculator.CalculateAverage(values, AveragingMethod.Mean);
+            double actual = calculator.CalculateAverage(values, meanMethod);
 
             Assert.AreEqual(expected, actual, 0.000001);
         }
@@ -25,11 +26,12 @@ namespace Task4.Tests
         [Test]
         public void Test_AverageByMedian()
         {
-            Calculator calculator = new Calculator();
+            var calculator = new Calculator();
+            IAverageCalculator medianMethod = new Median();
 
             double expected = 8.0;
 
-            double actual = calculator.CalculateAverage(values, AveragingMethod.Median);
+            double actual = calculator.CalculateAverage(values, medianMethod);
 
             Assert.AreEqual(expected, actual, 0.000001);
         }
