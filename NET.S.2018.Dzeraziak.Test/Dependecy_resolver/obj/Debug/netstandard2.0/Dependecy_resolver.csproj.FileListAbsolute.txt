@@ -1,0 +1,10 @@
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/bin/Debug/netstandard2.0/Dependecy_resolver.deps.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/bin/Debug/netstandard2.0/Dependecy_resolver.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/bin/Debug/netstandard2.0/Dependecy_resolver.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/obj/Debug/netstandard2.0/Dependecy_resolver.csproj.CoreCompileInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/obj/Debug/netstandard2.0/Dependecy_resolver.AssemblyInfoInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/obj/Debug/netstandard2.0/Dependecy_resolver.AssemblyInfo.cs
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/obj/Debug/netstandard2.0/Dependecy_resolver.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/obj/Debug/netstandard2.0/Dependecy_resolver.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/bin/Debug/netstandard2.0/Task1.Solution.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Dependecy_resolver/bin/Debug/netstandard2.0/Task1.Solution.pdb

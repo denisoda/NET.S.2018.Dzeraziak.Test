@@ -2,6 +2,6 @@ namespace Task1.Solution
 {
     public interface IPasswordRepository
     {
-         public void Create(string password)
+        void Create(string password);
     }
 }

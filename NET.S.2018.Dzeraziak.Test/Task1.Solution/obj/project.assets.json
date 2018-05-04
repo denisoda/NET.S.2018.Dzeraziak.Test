@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.LastName.Test/Task1.Solution/Task1.Solution.csproj",
+      "projectUniqueName": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Solution/Task1.Solution.csproj",
       "projectName": "Task1.Solution",
-      "projectPath": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.LastName.Test/Task1.Solution/Task1.Solution.csproj",
+      "projectPath": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Solution/Task1.Solution.csproj",
       "packagesPath": "/home/ilya/.nuget/packages/",
-      "outputPath": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.LastName.Test/Task1.Solution/obj/",
+      "outputPath": "/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Solution/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

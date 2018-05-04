@@ -1,0 +1,14 @@
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Console.deps.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Console.runtimeconfig.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Console.runtimeconfig.dev.json
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Console.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Console.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Solution.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Task1.Solution.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/obj/Debug/netcoreapp2.0/Task1.Console.csproj.CoreCompileInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/obj/Debug/netcoreapp2.0/Task1.Console.AssemblyInfoInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/obj/Debug/netcoreapp2.0/Task1.Console.AssemblyInfo.cs
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/obj/Debug/netcoreapp2.0/Task1.Console.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/obj/Debug/netcoreapp2.0/Task1.Console.pdb
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Dependecy_resolver.dll
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task1.Console/bin/Debug/netcoreapp2.0/Dependecy_resolver.pdb
