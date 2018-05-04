@@ -35,7 +35,7 @@ namespace Task_2
             return bytes;
         }
 
-        private string RandomString(int Size)
+        string RandomString(int Size)
         {
             var random = new Random();
 
