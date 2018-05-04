@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    public class Broker : IObserver
+    public class Broker : IObserver<Stock>
     {
-        private IObservable stock;
+        private IObservable<Stock> stock;
 
         public string Name { get; set; }
 
-        public Broker(string name, IObservable observable)
+        public Broker(string name, IObservable<Stock> observable)
         {
             this.Name = name;
             stock = observable;
@@ -33,6 +33,19 @@ namespace Task3
         {
             stock.Unregister(this);
             stock = null;
+        }
+
+        public void OnCompleted()
+        {
+
+        }
+        public void OnError(Exception error)
+        {
+
+        }
+        public void OnNext(Stock value)
+        {
+            
         }
     }
 }

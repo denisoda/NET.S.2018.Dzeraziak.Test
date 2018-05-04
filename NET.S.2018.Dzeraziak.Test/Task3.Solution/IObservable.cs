@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
-    public interface IObservable
+    public interface IObservable<T>
     {
-        void Register(IObserver observer);
-        void Unregister(IObserver observer);
+        void Register(IObserver<T> observer);
+        void Unregister(IObserver<T> observer);
         void Notify();
     }
 }
