@@ -1,4 +1,4 @@
-namespace Task2.Solution
+namespace Task_2
 {
     public interface IFileWirter
     {
