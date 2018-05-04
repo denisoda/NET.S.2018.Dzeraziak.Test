@@ -5,13 +5,16 @@ using System.Text;
 
 namespace Task_2
 {
-    public class RandomCharsFileGenerator
+    public class RandomCharsFileGenerator : FileGenerator, IFileWirter
     {
-        public string WorkingDirectory => "Files with random chars";
+        public RandomCharsFileGenerator()
+        {
+            WorkingDirectory = "Files with random bytes";
+            FileExtension = ".txt";
+        }
 
-        public string FileExtension => ".txt";
 
-        public void GenerateFiles(int filesCount, int contentLength)
+        public override void GenerateFiles(int filesCount, int contentLength)
         {
             for (var i = 0; i < filesCount; ++i)
             {
@@ -23,7 +26,7 @@ namespace Task_2
             }
         }
 
-        private byte[] GenerateFileContent(int contentLength)
+        protected override byte[] GenerateFileContent(int contentLength)
         {
             var generatedString = this.RandomString(contentLength);
 
@@ -42,8 +45,8 @@ namespace Task_2
 
             return new string(chars.ToArray());
         }
-
-        private void WriteBytesToFile(string fileName, byte[] content)
+        
+        public void WriteBytesToFile(string fileName, byte[] content)
         {
             if (!Directory.Exists(WorkingDirectory))
             {

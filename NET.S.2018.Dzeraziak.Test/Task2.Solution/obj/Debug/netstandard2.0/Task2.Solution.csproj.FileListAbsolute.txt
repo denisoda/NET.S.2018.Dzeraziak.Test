@@ -1,0 +1,3 @@
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task2.Solution/obj/Debug/netstandard2.0/Task2.Solution.csproj.CoreCompileInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task2.Solution/obj/Debug/netstandard2.0/Task2.Solution.AssemblyInfoInputs.cache
+/home/ilya/Documents/projects/Epam_Final_Exam/NET.S.2018.Dzeraziak.Test/Task2.Solution/obj/Debug/netstandard2.0/Task2.Solution.AssemblyInfo.cs

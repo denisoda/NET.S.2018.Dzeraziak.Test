@@ -3,13 +3,15 @@ using System.IO;
 
 namespace Task_2
 {
-    public class RandomBytesFileGenerator
+    public class RandomBytesFileGenerator : FileGenerator, IFileWirter
     {
-        public string WorkingDirectory => "Files with random bytes";
+        public RandomBytesFileGenerator()
+        {
+            WorkingDirectory = "Files with random bytes";
+            FileExtension = ".bytes";
+        }
 
-        public string FileExtension => ".bytes";
-
-        public void GenerateFiles(int filesCount, int contentLength)
+        public override void GenerateFiles(int filesCount, int contentLength)
         {
             for (var i = 0; i < filesCount; ++i)
             {
@@ -21,7 +23,7 @@ namespace Task_2
             }
         }
 
-        private byte[] GenerateFileContent(int contentLength)
+        protected override byte[] GenerateFileContent(int contentLength)
         {
             var random = new Random();
 
@@ -32,7 +34,7 @@ namespace Task_2
             return fileContent;
         }
 
-        private void WriteBytesToFile(string fileName, byte[] content)
+        public void WriteBytesToFile(string fileName, byte[] content)
         {
             if (!Directory.Exists(WorkingDirectory))
             {
